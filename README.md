@@ -24,3 +24,6 @@
 
 * 모래시계를 돌리기 전에는 단순한 모래시계(Hourglass)지만 화면을 클릭하여 돌리면
 * ‘Our glass’가 되도록 하여 전달하고 싶은 메시지를 나타낼 수 있도록 표현하였다.
+
+## Reiveiw
+![그림1](https://user-images.githubusercontent.com/60181129/96371957-7d06c500-119f-11eb-95ec-9ebc8699c782.png)
