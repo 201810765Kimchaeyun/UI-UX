@@ -9,7 +9,7 @@
 
 * 작품 주제 / 제목 : Time / Our glass
 
-## Reiview
+## Review
 ![그림1](https://user-images.githubusercontent.com/60181129/96371957-7d06c500-119f-11eb-95ec-9ebc8699c782.png)
 
 ## 컨셉 :
